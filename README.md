@@ -1,4 +1,4 @@
-# Data_Structures
+# Data Structures
 Codes on Array based data structures
 Stack
 Queue
