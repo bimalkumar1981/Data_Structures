@@ -1,3 +1,5 @@
+//Bimal Aklesh Kumar
+//Array Based Queue
 class Queue
 {
 	int size = 5;

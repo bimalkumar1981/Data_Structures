@@ -1,5 +1,5 @@
 //Bimal Aklesh Kumar
-//Array based stack
+//Arraybased IntegerStack
 
 class Stack
 {
@@ -70,7 +70,7 @@ class Stack
 
 	public static void main (String args[])
 	{
-		Stack stk = new Stack();
+		Stack2 stk = new Stack2();
 
 		if (stk.isEmpty())
 		{
@@ -100,3 +100,7 @@ class Stack
 		
 
 }
+
+
+
+
